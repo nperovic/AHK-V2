@@ -1,7 +1,7 @@
 #Requires AutoHotkey v2.0  ; prefer 64-bit, Unicode.
- 
+  
 ; UIA Library: https://github.com/Descolada/UIA-v2
-#include <UIA>
+#include UIA.ahk
 
 /**
  * Detecting the current audio status of Zoom Meetings.
