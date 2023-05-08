@@ -1,4 +1,3 @@
-
 #Requires AutoHotkey v2.0  ; prefer 64-bit, Unicode.
  
 ; UIA Library: https://github.com/Descolada/UIA-v2
