@@ -1,7 +1,7 @@
 
 #Requires AutoHotkey v2.0 ; prefer 64-bit, Unicode.
 
-; UIA Library: https://github.com/Descolada/UIA-v2/tree/528aeabadcf7c3bed2f668b41b70f082602a2dc6/Lib
+; UIA Library: https://github.com/Descolada/UIA-v2
 #include <UIA>
 
 /**
